@@ -1,0 +1,4 @@
+# Local configs & sensitive data
+tender_config.json
+last_tender.json
+tender_data.json
