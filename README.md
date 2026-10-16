@@ -51,8 +51,8 @@ The scripts operate on procurement-specific data files. Depending on the selecte
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd procurements
+git clone https://github.com/Dynam1keee/procurement-automation.git
+cd procurement-automation
 ```
 
 Create and activate a virtual environment.
